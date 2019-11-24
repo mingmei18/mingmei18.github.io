@@ -3,8 +3,7 @@
   <entry>
     <title>图片测试</title>
     <url>/2019/11/24/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<p><img src="/2019/11/24/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95%5C%E7%94%B7%E5%AD%A9.jpg" alt="男孩"></p>
-]]></content>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -22,6 +21,7 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+<p><img src="/2019/11/24/hello-world/G:%5Clu%5Csource_posts%5C%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95%5C%E7%94%B7%E5%AD%A9.jpg" alt></p>
 ]]></content>
   </entry>
 </search>
