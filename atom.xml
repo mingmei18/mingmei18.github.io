@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mingmei18.github.io/"/>
-  <updated>2019-11-24T04:22:46.202Z</updated>
+  <updated>2019-11-24T04:31:37.666Z</updated>
   <id>https://mingmei18.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>图片测试</title>
+    <link href="https://mingmei18.github.io/2019/11/24/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/"/>
+    <id>https://mingmei18.github.io/2019/11/24/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/</id>
+    <published>2019-11-24T03:37:34.000Z</published>
+    <updated>2019-11-24T04:31:37.666Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2019/11/24/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/%E7%94%B7%E5%AD%A9.png" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/2019/11/24/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/%E7%94%B7%E5%AD%A9.png&quot; alt&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="img" scheme="https://mingmei18.github.io/tags/img/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
