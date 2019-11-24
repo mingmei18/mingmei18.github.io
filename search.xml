@@ -2,14 +2,14 @@
 <search>
   <entry>
     <title>abc</title>
-    <url>/lu/2019/11/24/abc/</url>
-    <content><![CDATA[<p><img src="/lu/lu/2019/11/24/abc/a.png" alt="abc"></p>
+    <url>/2019/11/24/abc/</url>
+    <content><![CDATA[<p><img src="/2019/11/24/abc/a.png" alt="abc"></p>
 ]]></content>
   </entry>
   <entry>
     <title>图片测试</title>
-    <url>/lu/2019/11/24/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<p><img src="/lu/lu/2019/11/24/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/%E7%94%B7%E5%AD%A9.png" alt></p>
+    <url>/2019/11/24/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<p><img src="/2019/11/24/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/%E7%94%B7%E5%AD%A9.png" alt></p>
 ]]></content>
       <tags>
         <tag>img</tag>
@@ -17,7 +17,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/lu/2019/11/24/hello-world/</url>
+    <url>/2019/11/24/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
